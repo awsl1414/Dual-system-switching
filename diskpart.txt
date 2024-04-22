@@ -1,6 +1,0 @@
-list disk
-select disk X
-list partition
-select partition Y
-assign letter=Z
-remove letter=Z
